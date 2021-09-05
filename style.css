@@ -274,8 +274,9 @@ section:hover h2{
 }
 
 .mensagem-final:hover{
-    animation: colors 4s ease;
+    animation: colors 3.5s ease;
     transform: scale(1.2);
+    width: 70%;
 }
 .mensagem-final h2{
     margin: 5px auto;
